@@ -1,10 +1,10 @@
 import random
-
-from Tables.ChainedTable import ChainedTable
-from Tables.HashTable import HashTable
-from Tables.SortedTable import SortedTable
-from Tables.Table import Table
 import time
+
+from tables.ChainedTable import ChainedTable
+from tables.HashTable import HashTable
+from tables.SortedTable import SortedTable
+from tables.Table import Table
 
 list = []
 find = []
